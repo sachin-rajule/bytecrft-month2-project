@@ -60,19 +60,21 @@ Improved spacing, typography, and overall visual consistency
 📸 Screenshots
 
    Home Page
+   
    <img width="1920" height="1034" alt="home-page" src="https://github.com/user-attachments/assets/e7967d57-f3ce-4e9a-9a9b-683b5f9bca15" />
    
 
 
    Services Section
+   
    <img width="1920" height="1080" alt="services-page" src="https://github.com/user-attachments/assets/fc52e413-0ac6-4470-82d3-5b618476f130" />
    
-
-
    Portfolio Section
+   
    <img width="1920" height="1080" alt="portfolio-page" src="https://github.com/user-attachments/assets/08ba3fea-3438-48ee-b771-235d695ca62f" />
 
    about section
+   
    <img width="1920" height="1080" alt="about-page" src="https://github.com/user-attachments/assets/faac601d-e4ae-4373-be74-5a6e50ecd596" />
 
 
